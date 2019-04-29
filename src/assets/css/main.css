@@ -1,0 +1,66 @@
+/* purgecss start ignore */
+@tailwind preflight;
+/* purgecss end ignore */
+
+@tailwind components;
+
+@tailwind utilities;
+
+/* You can add custom styles below if needed */
+body, html {
+    margin: 0
+}
+
+* {
+font-family: 'Hind', sans-serif;
+font-weight: 400;
+}
+
+.monserat{
+    font-family: 'Montserrat', sans-serif;
+}
+
+a, button, ::after, ::before, #header #mainmenu, #header, #header img  {
+text-decoration: none;
+transition:all 0.2s ease;
+}
+
+.startslide {
+    background-image: url('../img/startbg.jpg');
+}
+
+h2:after {
+    display: block;
+    content: '';
+    background:#3490dc;
+    width: 50px;
+    height: 5px;
+    position: absolute;
+    bottom: -3px;
+    left:0; 
+}
+
+section {
+    overflow: hidden;
+}
+
+h2 {
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+p {
+    line-height: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    color:#565656;
+}
+
+h3 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+
+
+

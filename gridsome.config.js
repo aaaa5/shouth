@@ -12,7 +12,7 @@ const postcssPlugins = [tailwind("./tailwind.js")];
 if (process.env.NODE_ENV === "production") postcssPlugins.push(purgecss());
 
 module.exports = {
-  siteName: "Gridsome",
+  siteName: "Homepage design",
   plugins: [],
   css: {
     loaderOptions: {

@@ -20,9 +20,9 @@
         <div class="lg:flex">
           <div class="lg:w-2/3 lg:mr-10">
             <h2 class="border-b-2 border-grey-lighter pb-1 text-4xl">About Us</h2>
-            <p>Located in Hewlett Long Island, South Shore Neuropsychiatric Center is committed to a scientific and innovative approach to mental health treatment.</p>
-            <p>We combine innovative TMS  Therapy for Depression and Anxiety  treatments with expert Psychopharmacology and Psychotherapy. In addition to this, Dr Fruitman offers Ketamine treatment for depression. We are dedicated to helping professionals working in Manhattan and Long Island to get rapid relief of their ADD/ ADHD symptoms. Dr. Fruitman offers Buprenorphine/Suboxone outpatient treatment for patients with opiate addiction.</p>
-            <p>South Shore Neuropsychiatric Center believes that the right approach to treatment is to collaborate with all significant sources of treatment and support that are available to a patient, while maintaining a patient-requested level of confidentiality and privacy.</p>
+            <p class=" text-justify lg:text-left">Located in Hewlett Long Island, South Shore Neuropsychiatric Center is committed to a scientific and innovative approach to mental health treatment.</p>
+            <p class=" text-justify lg:text-left">We combine innovative TMS  Therapy for Depression and Anxiety  treatments with expert Psychopharmacology and Psychotherapy. In addition to this, Dr Fruitman offers Ketamine treatment for depression. We are dedicated to helping professionals working in Manhattan and Long Island to get rapid relief of their ADD/ ADHD symptoms. Dr. Fruitman offers Buprenorphine/Suboxone outpatient treatment for patients with opiate addiction.</p>
+            <p class=" text-justify lg:text-left">South Shore Neuropsychiatric Center believes that the right approach to treatment is to collaborate with all significant sources of treatment and support that are available to a patient, while maintaining a patient-requested level of confidentiality and privacy.</p>
           </div>
           <div class="lg:w-1/3 pt-5 lg:pt-16">
             <g-image src="~/assets/img/ef.jpg" />
@@ -78,7 +78,7 @@ import carrousel from '~/components/carrousel.vue'
 
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'South Shore Neuropsychiatric Center'
   },
   components: {
     carrousel

@@ -1,4 +1,5 @@
 <template>
+<ClientOnly>
   <Carousel :perPage="1" :navigationEnabled="true" :perPageCustom="[[768, 1], [1024, 3]]">
     <slide>
      <div class="testimonial relative  p-10 lg:max-w-xs max-w-sm mx-auto">
@@ -37,11 +38,12 @@
       </div>
     </slide>
   </Carousel>
+</ClientOnly>
 </template>
 
 <script>
-import {Carousel,Slide} from 'vue-carousel'
-
+//import {Carousel,Slide} from 'vue-carousel'
+/*
 export default {
   data() {
     return {
@@ -52,6 +54,21 @@ export default {
     Carousel,
     Slide
   }
+}
+*/
+
+export default {
+    name: 'carrousel',
+    components: {
+      Carousel: () =>
+        import ('vue-carousel')
+        .then(m => m.Carousel)
+        .catch(),
+      Slide: () =>
+        import ('vue-carousel')
+        .then(m => m.Slide)
+        .catch()
+    },
 }
 </script>
 

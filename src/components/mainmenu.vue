@@ -79,7 +79,7 @@ export default {
   background-color: #fff !important;
       position: relative;
     top: 0.7rem;
-}
+} 
 
 .call-us {
   line-height: 2.8rem;

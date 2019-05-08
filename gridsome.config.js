@@ -13,7 +13,16 @@ if (process.env.NODE_ENV === "production") postcssPlugins.push(purgecss());
 
 module.exports = {
   siteName: "Homepage design",
-  plugins: [],
+  plugins: [
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'blog/*.md',
+        typeName: 'BlogPost',
+        route: '/:slug'
+      }
+    }
+  ],
   css: {
     loaderOptions: {
       postcss: {

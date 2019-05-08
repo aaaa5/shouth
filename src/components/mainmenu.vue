@@ -17,6 +17,7 @@
               <g-link  class="nav__link block mt-8 lg:inline-block lg:mt-0 text-grey-lighter hover:text-white mr-4" to="/">About</g-link>
               <g-link  class="nav__link block mt-8 lg:inline-block lg:mt-0 text-grey-lighter hover:text-white mr-4" to="/">Services</g-link>
               <g-link  class="nav__link block mt-8 lg:inline-block lg:mt-0 text-grey-lighter hover:text-white mr-4" to="/">Mental Health Counseling</g-link>
+              <g-link  class="nav__link block mt-8 lg:inline-block lg:mt-0 text-grey-lighter hover:text-white mr-4" to="/Blog">Blog</g-link>
             </div>
             <div class="lg:hidden absolute bg-blue-darker p-2 pl-4 w-full">
                 <a class="call-us relative text-3xl" href="tel:516-295-4867">516-295-4867</a>

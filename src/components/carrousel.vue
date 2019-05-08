@@ -42,20 +42,6 @@
 </template>
 
 <script>
-//import {Carousel,Slide} from 'vue-carousel'
-/*
-export default {
-  data() {
-    return {
-      
-     }
-  },
-  components: {
-    Carousel,
-    Slide
-  }
-}
-*/
 
 export default {
     name: 'carrousel',

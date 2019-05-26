@@ -8,7 +8,25 @@ public_folder: "uploads"
 collections:
   - name: "blog"
     label: "Blog"    
-    folder: "blog"
+    folder: "content/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "StaticPage"
+    label: "Static Page"    
+    folder: "content/StaticPage"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "ServicePage"
+    label: "Service Page"    
+    folder: "content/StaticPage"
     create: true
     slug: "{{slug}}"
     fields:

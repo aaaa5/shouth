@@ -17,11 +17,27 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'blog/*.md',
+        path: 'content/blog/*.md',
         typeName: 'BlogPost',
+        route: 'blog/:slug'
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'content/staticPage/*.md',
+        typeName: 'StaticPage',
         route: '/:slug'
       }
-    }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'content/servicePages/*.md',
+        typeName: 'ServicePage',
+        route: 'services/:slug'
+      }
+    }    
   ],
   css: {
     loaderOptions: {

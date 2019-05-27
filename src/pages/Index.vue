@@ -3,14 +3,14 @@
     <section id="startslide" class="startslide h-screen w-full bg-top bg-cover flex items-center">  
       <div class="container intro-container text-center mx-auto mt-10  lg:max-w-lg rounded-lg">
         <div class="intro-logo rounded-lg bg-blue   p-3 px-4 pb-2 inline-block br-2"><g-image src="~/assets/img/banner-white.png" width="200" fill="cover"/></div>
-        <!---
+        
         <h1 class=" text-white  uppercase block mt-10 ">Get rapid relief of 
           <span
             class="txt-rotate text-white monserat mt-2 mb-16 block  text-5xl uppercase"
             data-period="2000"
             data-rotate='[ "Depression", "Anxiety", "ADD/ADHD" ]'></span>
         </h1>
-        -->
+        
         <div class="intro-buttons -my-4">
           <a class="mr-5 text-center t inline-block rounded py-2 px-4 bg-blue hover:bg-blue-dark text-white w-auto" href="#services">Services</a>
           <a class="text-center inline-block  bg-white rounded py-2 px-4 hover:bg-blue-light hover:text-white text-blue-dark w-auto" href="#footer">Contact us</a>
@@ -42,12 +42,6 @@
       <div class="container mx-auto">
         <h2 class="border-b-2 border-grey-lighter pb-1 text-4xl">Services</h2>
         <div class="serviceBox flex flex-wrap flex-row items-stretch text-center justify-center pt-6">
-          <!--
-          <div class="service relative lg:max-w-xs p-1 lg:p-3">
-            <g-image class="rounded" src="~/assets/img/depression.jpg"/>
-            <h3 class="serviceName bg-blue rounded px-1 py-3 text-white w-4/5 overflow-hidden mx-auto">Depression/Anxiety</h3>
-          </div>
-          -->
           <div v-for="{ node } in $static.allServicePage.edges" :key="node._id" class="service relative lg:max-w-xs p-1 lg:p-3">
                       <router-link :to="node.path" class=" block mt-8 lg:inline-block lg:mt-0 text-grey-lighter hover:text-white mr-4">
                         <g-image class="rounded" :src="node.image"/>

@@ -3,14 +3,14 @@
   <Carousel :perPage="1" :navigationEnabled="true" :perPageCustom="[[768, 1], [1024, 3]]">
     <slide>
      <div class="testimonial relative  p-10 lg:max-w-xs max-w-sm mx-auto">
-        <h3>Marcin N.</h3>
-        <p>Very down to earth, knows what he's talking about. Listens. Has adjusted my medication to change my life. Best doc I've seen and I had seen a couple.</p>
+        <h3>Regina F.</h3>
+        <p>My daughter has been seeing Michelle, LMHC for a few months, Since working with Michelle and Dr. Fruitman, my daughter has received accommodations at school which has helped tremendously, in addition, they helped me find tutors in all subjects.  My daughter has been receiving higher grades and has a better overall sense of self worth since starting counseling and medication management. We are very appreciative. </p>
       </div>
     </slide>
     <slide>
      <div class="testimonial relative  p-10 lg:max-w-xs max-w-sm mx-auto">
         <h3>Howard P.</h3>
-        <p>Dr Fruitman is a saint.  I have been battling depression and some type of bipolar my whole life.  After trying and failing on many different occasions with different medications and doctors,  i came accross Dr Fruitman and his ketamine therapy.  It has been a life saver.  Not only has the ketamine been extremely successful but the medication plan is working!!!!   I'm not fully healed or jumping through hoops but my life is manageble and consistent and that i am very thankful for.  Also the staff  Jenn and Michelle are extremely caring and helpful.  Thank you so much for helping save my life</p>
+        <p>Dr Fruitman is a saint.  I have been battling depression and some type of bipolar my whole life.  After trying and failing on many different occasions with different medications and doctors,  i came accross Dr Fruitman and his ketamine therapy.  It has been a life saver.  Not only has the ketamine been extremely successful but the medication plan is working!!!!</p>
       </div>
     </slide>
     <slide>
@@ -27,8 +27,8 @@
     </slide>
     <slide>
      <div class="testimonial relative  p-10 lg:max-w-xs max-w-sm mx-auto">
-        <h3>Regina F.</h3>
-        <p>My daughter has been seeing Michelle, LMHC for a few months, Since working with Michelle and Dr. Fruitman, my daughter has received accommodations at school which has helped tremendously, in addition, they helped me find tutors in all subjects.  My daughter has been receiving higher grades and has a better overall sense of self worth since starting counseling and medication management. We are very appreciative. </p>
+        <h3>Marcin N.</h3>
+        <p>Very down to earth, knows what he's talking about. Listens. Has adjusted my medication to change my life. Best doc I've seen and I had seen a couple.</p>
       </div>
     </slide>
   </Carousel>
@@ -53,6 +53,12 @@ export default {
 </script>
 
 <style>
+
+.testimonial p {
+font-size: 0.8rem;
+line-height: 1.2rem;
+}
+
 .testimonial:before {
   position: absolute;
   content:'';

@@ -7,7 +7,7 @@ public_folder: "uploads"
 
 collections:
   - name: "blog"
-    label: "Blog"    
+    label: "3. Blog"    
     folder: "content/blog"
     create: true
     slug: "{{slug}}"
@@ -15,18 +15,18 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "StaticPage"
-    label: "Static Page"    
-    folder: "content/StaticPage"
+  - name: "staticPage"
+    label: "1. Pages"    
+    folder: "content/staticPage"
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "ServicePage"
-    label: "Service Page"    
-    folder: "content/StaticPage"
+  - name: "servicePages"
+    label: "2. Services"    
+    folder: "content/servicePages"
     create: true
     slug: "{{slug}}"
     fields:

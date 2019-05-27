@@ -5,7 +5,7 @@ seotitle: 'Michelle Barnathan | Licensed Mental Health Counselor '
 seokeywords: 'Licensed Mental Health Counselor '
 seodescription: Michelle Barnathan
 ---
-![](/uploads/michelle.jpg)
+![](/uploads/michelle-lmhc.jpg)
 
 Michelle Barnathan, LMHC joined the clinical team at South Shore Neuropsychiatric Center in 2015 after many years of working within the educational system as a school counselor.  Michelle completed her Bachelor’s degree in Psychology at Adelphi University and went on to earn both a Master’s degree in School Counseling, from Long Island University – CW Post, as well as an advanced certificate in Mental Health Counseling from the University of Buffalo.  
 

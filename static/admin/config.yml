@@ -6,17 +6,8 @@ media_folder: "static/uploads"
 public_folder: "uploads"
 
 collections:
-  - name: "blog"
-    label: "3. Blog"    
-    folder: "content/blog"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "staticPage"
-    label: "1. Pages"    
+    label: "Pages"    
     folder: "content/staticPage"
     create: true
     slug: "{{slug}}"
@@ -25,8 +16,17 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "servicePages"
-    label: "2. Services"    
+    label: "Services"    
     folder: "content/servicePages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    - name: "blog"
+    label: "Blog"    
+    folder: "content/blog"
     create: true
     slug: "{{slug}}"
     fields:

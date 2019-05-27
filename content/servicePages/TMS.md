@@ -1,7 +1,7 @@
 ---
 title: TMS Therapy
 position: 1
-image: images/add.jpg
+image: /uploads/tms.jpg
 seotitle: About Us | South Shore Neuropsychiatric Center
 seokeywords: Neuropsychiatric Center
 seodescription: >-

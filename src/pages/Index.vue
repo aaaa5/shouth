@@ -1,5 +1,5 @@
 <template>
-  <Layout>
+  <Layout class="startpage">
     <section id="startslide" class="startslide h-screen w-full bg-top bg-cover flex items-center">  
       <div class="container intro-container text-center mx-auto mt-10  lg:max-w-lg rounded-lg">
         <div class="intro-logo rounded-lg bg-blue   p-3 px-4 pb-2 inline-block br-2"><g-image src="~/assets/img/banner-white.png" width="200" fill="cover"/></div>
@@ -64,7 +64,7 @@
 
 <static-query>
    query StaticPage ($static: Int) {
-    allServicePage (page: $static) {
+    allServicePage (page: $static, sortBy: "position", order: ASC) {
       edges {
         node {
           _id
@@ -84,7 +84,15 @@ import carrousel from '~/components/carrousel.vue'
 
 export default {
   metaInfo: {
-    title: 'South Shore Neuropsychiatric Center'
+    title: 'South Shore Neuropsychiatric Center',
+    meta: [{
+        name: 'description',
+        content: 'South Shore Neuropsychiatric Center offers ADHD, Depression, Anxiety Treatments in Hewlett, Long Island. Top Psychiatrist offers TMS Therapy in Long Island.'
+      },
+      {
+        name: 'keywords',
+        content: 'psychiatrist long island, top psychiatrist, tms therapy, adhd, depression, anxiety, substance abuse, adult attention deficit disorder, hewlett, long island, new york'
+      }]
   },
   components: {
     carrousel
@@ -126,7 +134,7 @@ export default {
   margin:4rem 0.5rem;
 
 }
-.serviceName {
+.startpage .serviceName {
   transform: translateY(-50%);
   margin-top: -0.5rem;
   font-size: 1.5rem;

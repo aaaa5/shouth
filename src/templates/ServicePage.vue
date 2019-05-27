@@ -40,10 +40,14 @@
 export default {
   metaInfo () {
     return {
-      title: this.$page.servicePage.title,
-       meta: [{
+      title: this.$page.servicePage.seotitle,
+      meta: [{
         name: 'description',
-        content: 'My Example App'
+        content: this.$page.servicePage.seodescription
+      },
+      {
+        name: 'keywords',
+        content: this.$page.servicePage.seokeywords
       }]
     }
   }
@@ -56,6 +60,9 @@ export default {
       title
       content
       image
+      seotitle
+      seokeywords
+      seodescription
     }
   }
 </page-query>
@@ -63,7 +70,7 @@ export default {
 
 <static-query>
    query StaticPage ($static: Int) {
-    allServicePage (page: $static) {
+    allServicePage (page: $static, sortBy: "position", order: ASC) {
       edges {
         node {
           _id

@@ -41,7 +41,15 @@
 export default {
   metaInfo () {
     return {
-      title: this.$page.blogPost.title
+      title: this.$page.blogPost.seotitle,
+      meta: [{
+        name: 'description',
+        content: this.$page.blogPost.seodescription
+      },
+      {
+        name: 'keywords',
+        content: this.$page.blogPost.seokeywords
+      }]
     }
   }
 }
@@ -49,7 +57,7 @@ export default {
 
 <static-query>
    query StaticPage ($static: Int) {
-    allServicePage (page: $static) {
+    allServicePage (page: $static, sortBy: "position", order: ASC) {
       edges {
         node {
           _id
@@ -69,6 +77,9 @@ export default {
       date (format: "D MMMM, YYYY")
       content
       image
+      seotitle
+      seokeywords
+      seodescription
     }
   }
 </page-query>

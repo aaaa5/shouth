@@ -1,7 +1,11 @@
 ---
-title: "about2"
+title: "About 2"
 description: "Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet."
 image: "./images/sergei-akulich-457851-unsplash.jpg"
+seotitle: 'seotitle'
+seokeywords: 'seo-kw'
+seodescription: 'seodescription'
+position: "4"
 slug: "about2" 
 ---
 

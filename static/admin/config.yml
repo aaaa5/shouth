@@ -13,8 +13,12 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Position", name: "position", widget: "number"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Seo Title", name: "seotitle", widget: "string"}
+      - {label: "Seo Keywords", name: "seokeywords", widget: "string"}
+      - {label: "Seo Description", name: "seodescription", widget: "string"}
   - name: "servicePages"
     label: "Services"    
     folder: "content/servicePages"
@@ -22,8 +26,12 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Position", name: "position", widget: "number"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Seo Title", name: "seotitle", widget: "string"}
+      - {label: "Seo Keywords", name: "seokeywords", widget: "string"}
+      - {label: "Seo Description", name: "seodescription", widget: "string"}
   - name: "blog"
     label: "Blog"    
     folder: "content/blog"
@@ -33,3 +41,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Seo Title", name: "seotitle", widget: "string"}
+      - {label: "Seo Keywords", name: "seokeywords", widget: "string"}
+      - {label: "Seo Description", name: "seodescription", widget: "string"}

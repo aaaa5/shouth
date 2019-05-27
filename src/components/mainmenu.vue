@@ -47,7 +47,7 @@
 
 <static-query>
    query StaticPage ($static: Int) {
-    allStaticPage (page: $static) {
+    allStaticPage (page: $static, sortBy: "position", order: ASC) {
       edges {
         node {
           _id
@@ -56,7 +56,7 @@
         }
       }
     }
-    allServicePage (page: $static) {
+    allServicePage (page: $static, , sortBy: "position", order: ASC) {
       edges {
         node {
           _id

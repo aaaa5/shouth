@@ -52,7 +52,7 @@
 
 <page-query>
   query Home ($page: Int) {
-    allBlogPost (perPage: 5, page: $page) @paginate{
+    allBlogPost (perPage: 5, page: $page, sortBy: "position", order: ASC) @paginate{
       pageInfo {
         totalPages
         currentPage
@@ -73,7 +73,7 @@
 
 <static-query>
    query StaticPage ($static: Int) {
-    allServicePage (page: $static) {
+    allServicePage (page: $static, sortBy: "position", order: ASC) {
       edges {
         node {
           _id
@@ -90,6 +90,17 @@
 import { Pager } from 'gridsome'
 
 export default {
+  metaInfo: {
+    title: 'Blog - South Shore Neuropsychiatric Center',
+    meta: [{
+        name: 'description',
+        content: 'Blog. South Shore Neuropsychiatric Center offers ADHD, Depression, Anxiety Treatments in Hewlett, Long Island. Top Psychiatrist offers TMS Therapy in Long Island.'
+      },
+      {
+        name: 'keywords',
+        content: 'psychiatrist long island, top psychiatrist, tms therapy, adhd, depression, anxiety, substance abuse, adult attention deficit disorder, hewlett, long island, new york'
+      }]
+  },
    components: {
     Pager
   }

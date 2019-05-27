@@ -98,6 +98,7 @@ h3 {
 
     .servicePage .content img, .staticPage .content img {
         margin: 0 2rem 2rem 0;
+        float:left;
         width: 40%;
       }
 

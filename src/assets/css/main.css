@@ -96,7 +96,7 @@ h3 {
       margin-left: 90px;
     }
 
-    .servicePage .content img, .staticPage .content {
+    .servicePage .content img, .staticPage .content img {
         margin: 0 2rem 2rem 0;
         width: 40%;
       }

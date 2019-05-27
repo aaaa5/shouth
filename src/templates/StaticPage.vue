@@ -59,7 +59,6 @@ export default {
     staticPage (path: $path) {
       title
       content
-      image
       seotitle
       seokeywords
       seodescription

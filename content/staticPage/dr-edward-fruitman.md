@@ -1,5 +1,5 @@
 ---
-title: Dr. Edward Fruitman
+title: 'Psychiatry '
 position: 2
 seotitle: >-
   Dr. Edward Fruitman, M.D., Top Long Island Psychiatrist | South Shore
@@ -19,8 +19,6 @@ Dr. Edward Fruitman graduated from the University of Michigan with a Bachelor of
 Dr. Fruitman is nationally recognized as an expert in the field of Psychopharmacology. He has delivered over 700 lectures and presentations at medical conferences, in grand rounds and other medical education settings.
 
 Dr. Fruitman specializes in the treatment of Anxiety and Depression, and Adult ADD/ADHD. Dr. Fruitman is the first psychiatrist to use TMS (Transcranial Magnetic Stimulation) in the Five Towns area in Long Island. Dr. Fruitman is Board Certified in Obesity Medicine. For patients that want to control their alcohol use, Vivitrol injections are available upon evaluation by Long Island psychiatrist Dr. Fruitman.
-
-Years into his career,  Dr. Fruitman noticed a trend: Patients who experienced depression and anxiety also felt dissatisfied with their physical appearance. This realization inspired Dr. Fruitman to found Trifecta Med Spa , where he administers Botox and Juvederm exclusively for cosmetic purposes.
 
 ## Our Approach:
 

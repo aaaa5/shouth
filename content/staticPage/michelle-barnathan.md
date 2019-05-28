@@ -1,5 +1,5 @@
 ---
-title: Michelle Barnathan
+title: Mental Health Counseling
 position: 2
 seotitle: 'Michelle Barnathan | Licensed Mental Health Counselor '
 seokeywords: 'Licensed Mental Health Counselor '
@@ -9,9 +9,7 @@ seodescription: Michelle Barnathan
 
 Michelle Barnathan, LMHC joined the clinical team at South Shore Neuropsychiatric Center in 2015 after many years of working within the educational system as a school counselor.  Michelle completed her Bachelor’s degree in Psychology at Adelphi University and went on to earn both a Master’s degree in School Counseling, from Long Island University – CW Post, as well as an advanced certificate in Mental Health Counseling from the University of Buffalo.  
 
-Attention Deficit Hyperactivity Disorder (ADHD) is one o
-
-f the most common mental disorders that develop in children. Children and young adults with ADHD have impaired functioning in all areas of life: school/work, home and social. If untreated, the disorder can have long-term adverse effects into adolescence and adulthood.  As a Licensed Mental Health Counselor specializing in adolescents, teenagers and young adults, Michelle draws on her extensive background working both inside and outside of the classroom.  With her knowledge of special programs and accommodations available, she pairs accordingly with students who find themselves struggling with learning, behavioral and academic performance.
+Attention Deficit Hyperactivity Disorder (ADHD) is one of the most common mental disorders that develop in children. Children and young adults with ADHD have impaired functioning in all areas of life: school/work, home and social. If untreated, the disorder can have long-term adverse effects into adolescence and adulthood.  As a Licensed Mental Health Counselor specializing in adolescents, teenagers and young adults, Michelle draws on her extensive background working both inside and outside of the classroom.  With her knowledge of special programs and accommodations available, she pairs accordingly with students who find themselves struggling with learning, behavioral and academic performance.
 
 With use of cognitive behavioral therapy and study skills training, patients learn to develop structure and skills to help them stay focused and face their challenges.  Michelle works directly with the client to support them in their steps to achieve their goals, as well as the parents and families, helping them learn to set boundaries, manage conflict, and motivate positivity. 
 

@@ -12,11 +12,12 @@
     </div>
     -->
     <div class="headingTitle flex content-end flex-wrap justify-center ">
-        <h1 class="text-white uppercase font-bold bg-blue px-5 py-8 rounded -mb-10">{{ $page.servicePage.title }}</h1>
+        <h1 class="text-white text-center uppercase font-bold bg-blue px-5 py-8 rounded -mb-10">{{ $page.servicePage.title }}</h1>
     </div>
     <div class="container mx-auto mb-16 mt-10">
       <div class="lg:flex">
-        <div class="w-full lg:w-3/4">
+        <div class="w-full lg:w-3/4 overflow-hidden">
+        <g-image class="rounded lg:float-left mt-16 lg:mr-10 mb-1 lg:mb-10 w-full lg:w-1/3" :src="$page.servicePage.image"/>
           <div class="content mt-10 lg:pr-10" v-html="$page.servicePage.content" />
         </div>
         <div class="right_block w-full mt-20 lg:w-1/4 lg:mt-0">

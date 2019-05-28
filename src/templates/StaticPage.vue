@@ -12,9 +12,9 @@
     </div>
     -->
     <div class="headingTitle flex content-end flex-wrap justify-center ">
-        <h1 class="text-white uppercase font-bold bg-blue px-5 py-8 rounded -mb-10">{{ $page.staticPage.title }}</h1>
+        <h1 class="text-white text-center uppercase font-bold bg-blue px-5 py-8 rounded -mb-10">{{ $page.staticPage.title }}</h1>
     </div>
-    <div class="container mx-auto mb-16 mt-10">
+    <div class="container mx-auto mb-16 mt-20 lg:mt-10">
       <div class="lg:flex">
         <div class="w-full lg:w-3/4">
           <div class="content mt-10 lg:pr-10" v-html="$page.staticPage.content" />

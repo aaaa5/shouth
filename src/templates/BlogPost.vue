@@ -11,7 +11,8 @@
     <div class="container mx-auto mb-16 mt-10">
        <div class="lg:flex">
         <div class="w-full lg:w-3/4">
-          <div class="content mt-10 pt-8" v-html="$page.blogPost.content" />
+          <g-image class="rounded lg:float-left mt-16 lg:mr-10 mb-1 lg:mb-10 w-full lg:w-1/3" :src="$page.blogPost.image"/>
+          <div class="content mt-10 lg:mr-10" v-html="$page.blogPost.content" />
         </div>
         <div class="right_block w-full mt-20 lg:w-1/4 lg:mt-0">
           <div class="flex flex-wrap justify-left p-2 bg-grey-lighter rounded-lg mt-20">

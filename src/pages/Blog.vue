@@ -13,9 +13,9 @@
     
 
     <div class="container mx-auto mb-16 mt-20">
-      <div class="lg:flex">
+      <div class="lg:flex ">
         <div class="w-full lg:w-3/4">
-          <ul>
+          <ul class="lg:pr-10">
             <li class="mb-8" v-for="{ node } in $page.allBlogPost.edges" :key="node._id">
               <div class="lg:float-left lg:mr-5 max-w-xs overflow-hidden"><g-image class="rounded-lg" :src="node.image" width="100"/></div>
               <div class=" clearfix">
@@ -33,7 +33,7 @@
           </ul>
         </div>
 
-        <div class="right_block w-full mt-20 lg:w-1/4 lg:mt-0">
+        <div class="right_block w-full mt-20 lg:w-1/4 lg:mt-10">
           <div class="flex flex-wrap justify-left p-2 pb-5 bg-grey-lighter rounded-lg">
             <h3 class="w-full text-white text-center -mt-8 "><span class="bg-blue py-1 px-5 rounded ">Services</span></h3>
             <div v-for="{ node } in $static.allServicePage.edges" :key="node._id" class="service block md:w-1/2 mt-3 mb-1 px-2">
@@ -61,7 +61,7 @@
         node {
           _id
           title
-          date (format: "MMMM D, YYYY")
+          date (format: "MM D, YYYY")
           description
           path
           image

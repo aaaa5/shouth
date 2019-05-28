@@ -8,7 +8,7 @@ seodescription: >-
   innovative approach to mental health treatment. We combine innovative TMS
   treatment with
 ---
-South Shore Neuropsychiatric Center is committed to a scientific and innovative approach to mental health treatment. We combine innovative TMS treatment with expert Psychopharmacology and Psychotherapy. We are dedicated to helping professionals working in Manhattan and Long Island to get rapid relief of their ADD/ ADHD symptoms.
+South Shore Neuropsychiatric Center is committed to a scientific and innovative approach to mental health treatment. We combine innovative treatments with expert Psychopharmacology and Psychotherapy. We are dedicated to helping professionals working in Manhattan and Long Island to get rapid relief of their symptoms.
 
 South Shore Neuropsychiatric Center believes that the right approach to treatment is to collaborate with all significant sources of treatment and support that are available to a patient, while maintaining a patient-requested level of confidentiality and privacy. If possible, we involve the patient’s family, treating physicians, psychotherapist, nutritionist and personal trainer.
 

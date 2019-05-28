@@ -1,6 +1,6 @@
 ---
 title: Mental Health Counseling
-position: 2
+position: 3
 seotitle: 'Michelle Barnathan | Licensed Mental Health Counselor '
 seokeywords: 'Licensed Mental Health Counselor '
 seodescription: Michelle Barnathan

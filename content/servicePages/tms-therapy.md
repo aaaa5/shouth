@@ -36,7 +36,7 @@ Through a treatment coil, the NeuroStar TMS Therapy system generates highly conc
 
 ![](/uploads/innovative-depression-treatment-tms.jpg)
 
-TMS treatment Long IslandPatients typically receive 20 to 30 treatments over four to six weeks, five times per week; with each treatment lasting approximately 37 minutes. The course of treatment varies according to each individual. An initial assessment will determine the appropriate dose of the magnetic pulse and the exact area of the brain the coil should target. As treatment progresses, the clinician will conduct periodic re-evaluations of the dose level and coil placement.
+TMS Patients typically receive 20 to 30 treatments over four to six weeks, five times per week; with each treatment lasting approximately 37 minutes. The course of treatment varies according to each individual. An initial assessment will determine the appropriate dose of the magnetic pulse and the exact area of the brain the coil should target. As treatment progresses, the clinician will conduct periodic re-evaluations of the dose level and coil placement.
 
 During a treatment session, the patient sits in a comfortable reclining chair similar to that found in a dentist’s office. A headset is applied to deliver the magnetic stimulation. Ear plugs are provided to decrease the loud clicks associated with each magnetic pulse and the patient is given the option of watching TV. During the procedure, the patient is monitored continuously to ensure correct positioning and comfort level.
 
@@ -50,7 +50,7 @@ South Shore Neuropsychiatric Center pioneered the technique of engaging the pati
 
 ## ARE THERE RISKS AND SIDE EFFECTS WITH TMS?
 
-tms-side-effectsMore than 10,000 treatments were safely performed during clinical trials. Patients reported no side effects like those associated with antidepressant medication (weight gain, dry mouth, drowsiness, sexual side effects, etc.), and no cognitive side effects. Scalp discomfort during the procedure is the most common side effect. TMS should not be used for patients with implanted metallic devices that include metal plates in the skull or aneurysm coils, clips or stents. Special precautions are recommended for individuals with implants, such as pacemakers and implantable cardioverter defibrillators.
+More than 10,000 treatments were safely performed during clinical trials. Patients reported no side effects like those associated with antidepressant medication (weight gain, dry mouth, drowsiness, sexual side effects, etc.), and no cognitive side effects. Scalp discomfort during the procedure is the most common side effect. TMS should not be used for patients with implanted metallic devices that include metal plates in the skull or aneurysm coils, clips or stents. Special precautions are recommended for individuals with implants, such as pacemakers and implantable cardioverter defibrillators.
 
 ## IS TMS COVERED BY INSURANCE?
 

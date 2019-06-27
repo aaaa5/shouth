@@ -14,23 +14,23 @@ seodescription: >-
   TMS doctor in NYC & Long island Dr. Fruitman offer depression treatment with
   TMS.
 ---
-Transcranial Magnetic Stimulation (TMS) is a non-invasive treatment for Depression offered at South Shore Nueropsychiatric Center.
+Transcranial Magnetic Stimulation (TMS) is a non-invasive treatment for Depression offered at South Shore Neurospychiatric Center.
 
-TMS uses magnetic stimulation of the brain to help control mood in adults with major Depression.
+Neurostar uses transcranial magnetic stimulation (TMS) to target key areas of the brain that are under active in people with depression. Although the exact cause of depression is unknown, the leading scientific theory is that it is caused by an imbalance of the brains neurotransmitters, which are chemical messengers sent throughout the brain. 
 
 The procedure was cleared for use by the U.S. Food and Drug Administration in October 2008 in patients who failed to achieve satisfactory improvement from one course of Pharmacotherapy (medication). For this reason, TMS is particularly helpful for people who have not experienced significant relief from antidepressant medications or who have difficulty with antidepressant side effects.
 
-We at South Shore Neuropsychiatric Center have been treating patient with TMS therapy since April 2010.
+We at South Shore Neuropsychiatric Center have been treating patient with TMS therapy since 2010.
 
 ## TMS PROCEDURE
 
-During the TMS Therapy procedure, a coil device is placed over the patient’s head to deliver magnetic pulses to the brain. These pulses are thought to cause electrical changes within the neurons of the left prefrontal cortex, which is the part of the brain that regulates mood.
+Transcranial magnetic stimulation (TMS) uses a targeted pulsed magnetic field, similar to what is used in an MRI (magnetic resonance imaging) machine. While the patient is awake and alert, NeuroStar TMS Therapy stimulates areas of the brain that are underactive in depression.
 
-This procedure is completely painless and noninvasive, performed similarly to an MRI scan of the brain. TMS requires no anesthesia or sedation and patients are awake and alert during the procedure. Because no medications are administered, there are no systemic effects or cognitive after-effects (memory loss and ability to concentrate); therefore, patients can return immediately to regular activity.
+This procedure is completely painless and noninvasive. TMS requires no anesthesia or sedation and patients are awake and alert during the procedure. Because no medications are administered, there are no systemic effects or cognitive after-effects (memory loss or ability to concentrate); therefore, patients can return immediately to regular activity.
 
-Each treatment sessions takes about 30 minutes to perform, and patients can resume their regular activities immediately after each session. To achieve effective results, patients will need to undergo multiple visits each week for three to six weeks, depending on their individual condition.
+Each treatment sessions takes approximately 30 minutes to perform, and patients can resume their regular activities immediately after each session. An effective course of treatment is 4-6 weeks long.
 
-Through a treatment coil, the NeuroStar TMS Therapy system generates highly concentrated, magnetic fields which turn on and off very rapidly. These magnetic fields are the same type and strength as those produced by a magnetic resonance imaging (MRI) machine.
+
 
 ## TREATMENT
 
@@ -54,4 +54,6 @@ More than 10,000 treatments were safely performed during clinical trials. Patien
 
 ## IS TMS COVERED BY INSURANCE?
 
-Both private and public insurers are determining eligibility for TMS on an individual basis. However, until TMS is accepted more widely as a medically necessary treatment, insurance coverage will most likely not be authorized. South Shore Neuropsychiatric Center will work closely with patients and insurers to determine coverage.
+Almost all major insurance providers authorize TMS. As an out-of-network provider, we’re able to negotiate single-case coverage for TMS with most private plans if the treatment is deemed medically necessary and patient meets clinical criteria. 
+
+If insurance coverage isn’t an option, we can also work with you to develop an out-of-pocket payment plan to cover the cost of treatment. Contact us to learn more.

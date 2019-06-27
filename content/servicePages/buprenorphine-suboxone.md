@@ -1,5 +1,5 @@
 ---
-title: Buprenorphine Suboxone
+title: Substance Abuse
 position: 4
 image: /uploads/sub.jpg
 seotitle: >-

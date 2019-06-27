@@ -22,6 +22,8 @@ The procedure was cleared for use by the U.S. Food and Drug Administration in Oc
 
 We at South Shore Neuropsychiatric Center have been treating patient with TMS therapy since 2010.
 
+https://www.youtube.com/watch?v=Vu6TcSMca2w&feature=youtu.be
+
 ## TMS PROCEDURE
 
 Transcranial magnetic stimulation (TMS) uses a targeted pulsed magnetic field, similar to what is used in an MRI (magnetic resonance imaging) machine. While the patient is awake and alert, NeuroStar TMS Therapy stimulates areas of the brain that are underactive in depression.

@@ -22,7 +22,11 @@ The procedure was cleared for use by the U.S. Food and Drug Administration in Oc
 
 We at South Shore Neuropsychiatric Center have been treating patient with TMS therapy since 2010.
 
-https://www.youtube.com/watch?v=Vu6TcSMca2w&feature=youtu.be
+
+
+<iframe width="100%" height="415" src="https://youtu.be/embed/Vu6TcSMca2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+
+``
 
 ## TMS PROCEDURE
 
@@ -44,11 +48,7 @@ During a treatment session, the patient sits in a comfortable reclining chair si
 
 South Shore Neuropsychiatric Center pioneered the technique of engaging the patient in Cognitive/Supportive Psychotherapy during the course of TMS treatments, administered by a trained clinician.
 
-`
 
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/Izin3jTKNik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-
-``
 
 ## ARE THERE RISKS AND SIDE EFFECTS WITH TMS?
 

@@ -23,4 +23,8 @@ During the initial 90-minute evaluation, we will discuss all areas of concern wi
 
 **Why our methods work?**
 
-At South Shore Neuropsychiatric Center we help people with physical, emotional and mental health issues improve their sense of well‐being, alleviate feelings of distress and resolve crises.  We use our sessions to focus on the additional problems that fall under the ADHD diagnosis such as, time management, stress management, school/work adjustments, organizational problems, feelings of self-efficacy, emotional exploration, learning disabilities, coping strategies, relationship/family issues with the client rather than strictly providing medication management.
+At South Shore Neuropsychiatric Center we help people with physical, emotional and mental health issues improve their sense of well‐being, alleviate feelings of distress and resolve crises. Although medication may aid in helping the client focus and treat symptoms of ADHD, the counseling component will help the client with time management, stress management, school/work adjustments, organizational problems, feelings of self-efficacy, emotional exploration, learning disabilities, coping strategies, relationship/family issues with the client rather than strictly providing medication management. 
+
+**What does this method NOT address?**
+
+Our methods can be extremely helpful to those with ADHD/ADD symptoms, however, there are many diagnoses that we do not treat with these methods.  The following may be the primary diagnoses and therefore, should be treated first, mood and psychotic disorders, eating disorders, severe depression, self-destructive behaviors and drug use.

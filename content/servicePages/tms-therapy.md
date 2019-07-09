@@ -22,9 +22,7 @@ The procedure was cleared for use by the U.S. Food and Drug Administration in Oc
 
 We at South Shore Neuropsychiatric Center have been treating patient with TMS therapy since 2010.
 
-
-
-<iframe width="100%" height="415" src="https://youtu.be/embed/Vu6TcSMca2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+<iframe width="100%" height="415" src="https://youtu.be/embed/Vu6TcSMca2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ``
 
@@ -36,8 +34,6 @@ This procedure is completely painless and noninvasive. TMS requires no anesthesi
 
 Each treatment sessions takes approximately 30 minutes to perform, and patients can resume their regular activities immediately after each session. An effective course of treatment is 4-6 weeks long.
 
-
-
 ## TREATMENT
 
 ![](/uploads/innovative-depression-treatment-tms.jpg)
@@ -47,8 +43,6 @@ TMS Patients typically receive 20 to 30 treatments over four to six weeks, five 
 During a treatment session, the patient sits in a comfortable reclining chair similar to that found in a dentist’s office. A headset is applied to deliver the magnetic stimulation. Ear plugs are provided to decrease the loud clicks associated with each magnetic pulse and the patient is given the option of watching TV. During the procedure, the patient is monitored continuously to ensure correct positioning and comfort level.
 
 South Shore Neuropsychiatric Center pioneered the technique of engaging the patient in Cognitive/Supportive Psychotherapy during the course of TMS treatments, administered by a trained clinician.
-
-
 
 ## ARE THERE RISKS AND SIDE EFFECTS WITH TMS?
 

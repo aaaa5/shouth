@@ -2,6 +2,8 @@
 title: Treatment of Common Conditions
 position: 3
 image: /uploads/depressed-woman-on-boat-dock.jpg
+top-image: /uploads/sub.jpg
+sdesc: 'Addiction Disorder Treatment, Buprenorphine Suboxone In Long Island, Hewlett South Shore Neuropsychiatric Center'
 seotitle: 'common conditions, treatment of conditions'
 seokeywords: 'conditions,ADHD, depression, anxiety, phobias'
 seodescription: 'treatment of common conditions '
@@ -22,7 +24,8 @@ We help patients to improve their symptoms by using expert Psychopharmacology, h
 
 Panic Disorder is characterized by unexpected and repeated episodes of intense fear, accompanied by physical symptoms that may include chest pain, heart palpitations, skin tingling, shortness of breath, dizziness, or abdominal distress. People with Panic Disorder have feelings of terror that strike suddenly and repeatedly with no warning. Due to panic attacks, patients start avoiding activities that make panic attacks likely to occur, and some even become home bound.
 
-Here we focus on helping patients with Panic Disorder feel more in control. We believe that the fear of panic attacks can become more disabling then the panic attack itself. We help our patients to achieve control over Panic Disorder with the use of expert Psychopharmacology and relaxation techniques.
+Here we focus on helping patients with Panic Disorder feel more in control. We believe that the fear of panic attacks can become more disabling then the panic attack itself. We help our patients to achieve control over Panic Disorder with the use of expert Psychopharmacology and relaxation techniques.
+
 
 **SOCIAL PHOBIA**
 

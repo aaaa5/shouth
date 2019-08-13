@@ -1,7 +1,7 @@
 <template>
   <div class="layout">
     <header class="header fixed w-full z-50" id="header">
-      <div class="container mx-auto">
+      <div class="mainmenuContainer">
         <mainmenu />
       </div>      
     </header>

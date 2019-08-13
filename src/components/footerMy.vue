@@ -1,7 +1,7 @@
 <template>
     <div id="footer" class=" bg-blue-darkest text-white" >
         <div class="container mx-auto flex text-center items-top justify-center flex-wrap py-10">
-             <h2 class="border-b-2 border-grey-darker pb-1 mb-16 text-4xl w-full text-left">Call Now!</h2>
+             <h3 class="text-center border-b-2 border-blue-darker pb-1 mb-3 text-4xl w-full text-left">CALL US TODAY! 516-295-4867</h3>
             <!--
             <div class="lg:w-1/3 w-1/2 ">
                 <p class=" lg:text-2xl text-blue">
@@ -18,7 +18,8 @@
                 </p>
             </div>
             -->
-            <div class="lg:w-1/3 w-1/2 mt-8 lg:mt-0">
+            <h3 class="p-0 m-0 text-blue-darkest">Call now and start your journey to better yourself today!</h3>
+            <div class="lg:w-1/3 w-1/2 mt-8 lg:mt-0 hidden">
                 <p class=" lg:text-2xl text-blue">
                     <a href="tel:516-295-4867"><g-image class="p-3 rounded-full mb-3 bg-blue" src="~/assets/img/phone-icon-inv.png" width="70" /></a>
                     <br>
@@ -27,7 +28,7 @@
                 </p>
             </div>
         </div>
-        <div class="bg-blue-dark"> 
+        <div class="bg-blue-darkest"> 
             <div class="container mx-auto text-center">
                 <p class="text-white text-sm mb-0">2009-2019 South Shore Neuropsychiatric Center</p>
             </div>

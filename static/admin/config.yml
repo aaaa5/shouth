@@ -26,7 +26,8 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Position", name: "position", widget: "number"}
-      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Header Image", name: "top-image", widget: "image"}
+      - {label: "Short description", name: "sdesc", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Seo Title", name: "seotitle", widget: "string"}
       - {label: "Seo Keywords", name: "seokeywords", widget: "string"}

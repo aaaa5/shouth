@@ -84,29 +84,13 @@ export default {
 <style>
 .staticPage .phone a {
   color:#fff;
-
 }
 
 #whiteLogo {
-    left: 0;
-    top:0.2rem;
-}
-
-@media screen and (max-width: 992px) {
-  #whiteLogo {
     left: 50%;
     transform:translateX(-50%);
-  }
-}
-
-@media screen and (min-width: 991px) {
-  .staticPage .phone a {
-    margin-left: 90px;
+    z-index: 8;
   }
 
-  .staticPage .scrolled .phone a {
-    margin-left: 0px;
-  }
-}
 
 </style>

@@ -2,6 +2,10 @@
 title: Ketamine for depression
 position: 5
 image: /uploads/ket.jpg
+top-image: /uploads/sub.jpg
+sdesc: >-
+  Addiction Disorder Treatment, Buprenorphine Suboxone In Long Island, Hewlett |
+  South Shore Neuropsychiatric Center
 seotitle: >-
   Ketamine For Depression, Ketamine Treatment Long Island, NY | South Shore
   Neuropsychiatric Center
@@ -17,7 +21,8 @@ seodescription: >-
 
 Depression continues to be a disease that is not completely understood. Modern neuroscience has come up with logical and cohesive models, which describe depression as, a deficiency or reduced activity of the neurotransmitters Serotonin, Norepinephrine and Dopamine in the brain. All FDA-approved medications affect one or more of the above neurotransmitters. The art of psychopharmacology is in finding the right combination of medications, which can optimize activity of all of the above neurotransmitters for a given patient. Current models of Depression do not explain why antidepressants do not work instantly or why antidepressants do not work for all of depressed patients.
 
-Modern research shows that Ketamine, an old anesthetic, works very quickly in relieving the symptoms of severe depression in patients who have received no response to medications and/or ECT.
+
+Modern research shows that Ketamine, an old anesthetic, works very quickly in relieving the symptoms of severe depression in patients who have received no response to medications and/or ECT.
 
 
 
@@ -31,7 +36,8 @@ The exact mechanism of how Ketamine works for depression is not fully known. Ket
 
 Ketamine has been widely used as an anesthetic for minor procedures since the 1960’s. In many countries, it is used by the first aid response workers when dealing with minor trauma. The safety of Ketamine is such that it can be used as an outpatient anesthetic by non-physicians. The dose used to Depression is about one quarter (1/4) of the anesthetic dose. At South Shore Neuropsychiatric Center, we administer a trial injection, followed in 15 minutes by a regular injection. This will minimize the chance of any negative reaction and help to reassure the patient. Ketamine has a very short-acting, mind-altering effect that is frequently described as a mild alcohol intoxication. The effects of ketamine lasts for less than two hours.
 
-Negative effects of Ketamine use are most often associated with high chronic doses of Veterinary grade by recreational drug users (Special K) or medical errors. Ketamine is an FDA approved substance, but does not carry an indication for depression treatment.
+
+Negative effects of Ketamine use are most often associated with high chronic doses of Veterinary grade by recreational drug users (Special K) or medical errors. Ketamine is an FDA approved substance, but does not carry an indication for depression treatment.
 
 
 

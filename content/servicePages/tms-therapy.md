@@ -2,6 +2,10 @@
 title: TMS Therapy
 position: 1
 image: /uploads/tms.jpg
+top-image: /uploads/sub.jpg
+sdesc: >-
+  Addiction Disorder Treatment, Buprenorphine Suboxone In Long Island, Hewlett |
+  South Shore Neuropsychiatric Center
 seotitle: >-
   Transcranial Magnetic Stimulation (TMS), Long Island,Hewlett | South Shore
   Neuropsychiatric Center

@@ -81,7 +81,7 @@
 <script>
 
 import carrousel from '~/components/carrousel.vue'
-import VideoBg from 'vue-videobg'
+import VideoBg from '~/components/VideoBackground.vue'
 
 
 export default {

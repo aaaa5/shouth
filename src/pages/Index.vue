@@ -133,6 +133,14 @@ export default {
 </script>
 
 <style>
+
+.VideoBg>video {
+  height: 100vh !important;
+}
+
+.startslide {
+  background-image: url("~@/assets/img/water.jpg");
+}
 #testimonials {
   background-image: url('~@/assets/img/testimonial.jpg');
 }

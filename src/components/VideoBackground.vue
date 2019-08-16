@@ -62,7 +62,8 @@
         }
       },
       setContainerHeight () {
-        this.$el.style.height = `${window.innerHeight}px`
+        //this.$el.style.height = `${window.innerHeight}px`
+        this.$el.style.height = `100vh`
       },
       setVideoSize () {
         var width, height, containerRatio = this.$el.offsetWidth / this.$el.offsetHeight

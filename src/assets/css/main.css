@@ -25,9 +25,7 @@ text-decoration: none;
 transition:all 0.2s ease;
 }
 
-.startslide {
-  background: #6c92b6;
-}
+
 
 h2:after {
     display: block;

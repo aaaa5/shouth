@@ -5,7 +5,7 @@
     </video-bg>
     <section id="startslide" class="startslide h-screen w-full bg-top bg-cover flex items-center">
       <div class="intro-logo rounded-lg bg-blue   p-3 px-4 pb-2 inline-block br-2"><g-image src="~/assets/img/banner-white.png" width="200" fill="cover"/></div>  
-      <div class="container intro-container text-center mx-auto mt-10  lg:max-w-lg rounded-lg">
+      <div class="container intro-container text-center mx-auto mt-0  lg:max-w-lg rounded-lg">
         
         
         <h1 class=" text-white  uppercase block mt-10 ">Get rapid relief of 
@@ -42,7 +42,7 @@
         <!-- <h2 class="border-b-2 border-grey-lighter pb-1 text-4xl">Services</h2>
         <h3 class="text-center bg-cover bg-fixed text-white mb-0 p-8">SERVICES</h3> -->
         <div class="serviceBox flex flex-wrap flex-row items-stretch text-center justify-center">
-          <div v-for="{ node } in $static.allServicePage.edges" :key="node._id" class="service relative w-full lg:w-1/4">
+          <div v-for="{ node } in $static.allServicePage.edges" :key="node._id" class="service relative w-full lg:w-1/4 mb-6 lg:mb-0">
                       <router-link :to="node.path" class=" bg-cover bg-center w-full block lg:inline-block lg:mt-0 text-grey-lighter hover:text-white" v-bind:style="{ backgroundImage: 'url(' + node.image + ')' }">
                         <h3 v-html="node.title" class="serviceName inline-block  rounded" />
                         <p v-html="node.sdesc"></p>
@@ -134,9 +134,7 @@ export default {
 
 <style>
 
-.VideoBg>video {
-  height: 100vh !important;
-}
+
 
 .startslide {
   background-image: url("~@/assets/img/water.jpg");
@@ -441,6 +439,11 @@ transform: translate(-50%, -50px);
 
 
 @media screen and (max-width: 991px) {
+  .VideoBg>video {
+  height: 100vh !important;
+  width:auto;
+}
+
   .txt-rotate {
     height: 3rem;
 }

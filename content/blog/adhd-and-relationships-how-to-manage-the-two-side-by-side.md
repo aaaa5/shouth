@@ -1,8 +1,7 @@
 ---
 title: 'ADHD and Relationships: How to Manage the two side by side'
 image: /uploads/adhd-long-island1.jpg
-heading-image: /uploads/adhd-long-island1.jpg
-date: May 15th 14
+date: 2015-05-15T21:00:00.000Z
 description: ADHD and Relationships
 seotitle: 'ADHD and Relationships '
 seokeywords: 'Managing ADHD and Relationships '

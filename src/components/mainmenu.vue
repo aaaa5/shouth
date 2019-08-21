@@ -84,13 +84,16 @@ export default {
       },
       handleDebouncedScroll (event) {
         var el = document.getElementById('header');
-        var el2 = document.getElementById('startslide'); 
+        var el2 = document.getElementById('startslide');
+        var el3 = document.getElementById('headingTitle');
         if (window.scrollY > 30) {
           el.classList.add('scrolled');
-          el2.classList.add('scrolled');
+          el2 ? el2.classList.add('scrolled') : false;
+          el3 ? el3.classList.add('scrolled') : false;
         }else{
           el.classList.remove('scrolled');
-          el2.classList.remove('scrolled'); 
+          el2 ? el2.classList.remove('scrolled'): false;
+          el3 ? el3.classList.remove('scrolled'): false;
         }
       },
     },
@@ -214,17 +217,17 @@ transform: scale(1);
 
 
 @media screen and (max-width: 992px){
-  .call-us {
+  .phone .call-us {
     text-indent: -9999px;
   }
-  .scrolled .call-us {
+  .scrolled .phone .call-us {
     transform: translateX(-100%);
     opacity: 0;
   }
 }
 
 @media screen and (min-width: 993px){
-  .scrolled .call-us {
+  .scrolled .phone .call-us {
     transform: translateX(-100%);
     opacity: 0;
   }
@@ -336,7 +339,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#87bcea', end
     width: 100%;
     text-align: center;
   }
-  .scrolled .call-us:before {
+  .scrolled .phone .call-us:before {
   background-color: #3490dc;
   background-image: url("/img/phone-icon-inv.png");
   border: .1rem solid #3993dd;

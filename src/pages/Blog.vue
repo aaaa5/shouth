@@ -7,8 +7,9 @@
       </div>
     </div>
     
-    <div class="headingTitle flex content-end flex-wrap justify-center ">
-        <h1 class="text-white uppercase font-bold bg-blue px-5 py-8 rounded -mb-10">Blog</h1>
+   <div class="heading-cover absolute w-full"  style="background-image': url('') "></div>
+    <div id="headingTitle" class="headingTitle flex align-middle flex-wrap content-center">
+        <div class="container mx-auto z-10"><h1 class="text-white uppercase mt-16 text-4xl text-center lg:text-left lg:text-5xl">BLOG</h1></div>
     </div>
     
 
@@ -52,7 +53,7 @@
 
 <page-query>
   query Home ($page: Int) {
-    allBlogPost (perPage: 5, page: $page, sortBy: "position", order: ASC) @paginate{
+    allBlogPost (perPage: 5, page: $page, sortBy: "date", order: ASC) @paginate{
       pageInfo {
         totalPages
         currentPage
@@ -61,7 +62,7 @@
         node {
           _id
           title
-          date (format: "MM D, YYYY")
+          date 
           description
           path
           image

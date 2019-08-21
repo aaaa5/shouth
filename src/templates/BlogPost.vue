@@ -5,8 +5,9 @@
         <g-link to='/' class="staticLogo inline-block p-2 bg-blue rounded lg:mt-3"><g-image src='~/assets/img/banner-white.png' fit="cover" class="" width="150"/></g-link>
       </div>
     </div>
-    <div class="headingTitle flex content-end flex-wrap justify-center ">
-        <h1 class="text-white uppercase font-bold bg-blue px-5 py-8 rounded -mb-10">{{ $page.blogPost.title }}</h1>
+    <div class="heading-cover absolute w-full"  style="background-image': url('') "></div>
+    <div id="headingTitle" class="headingTitle flex align-middle flex-wrap content-center">
+        <div class="container mx-auto z-10"><h1 class="text-white uppercase mt-16 text-4xl text-center lg:text-left lg:text-5xl">{{ $page.blogPost.title }}</h1></div>
     </div>
     <div class="container mx-auto mb-16 mt-10">
        <div class="lg:flex">

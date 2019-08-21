@@ -40,7 +40,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Publish Date", name: "date", format: "MMM Do YY", widget: "date"}
+      - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Seo Title", name: "seotitle", widget: "string"}

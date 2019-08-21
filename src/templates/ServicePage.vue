@@ -11,13 +11,14 @@
       <g-image :src="$page.servicePage.image" fit="cover" height="100" />
     </div>
     -->
-    <div class="headingTitle flex content-end flex-wrap justify-center ">
-        <h1 class="text-white text-center uppercase font-bold bg-blue px-5 py-8 rounded -mb-10">{{ $page.servicePage.title }}</h1>
+    <div class="heading-cover absolute w-full"  v-bind:style="{ 'background-image': 'url(' + $page.servicePage.image + ')' }"></div>
+    <div id="headingTitle" class="headingTitle flex align-middle flex-wrap content-center">
+        <div class="container mx-auto z-10"><h1 class="text-white uppercase mt-16 text-4xl text-center lg:text-left lg:text-5xl">{{ $page.servicePage.title }}</h1></div>
     </div>
     <div class="container mx-auto mb-16 mt-10">
       <div class="lg:flex">
         <div class="w-full lg:w-3/4 overflow-hidden">
-        <g-image class="rounded lg:float-left mt-16 lg:mr-10 mb-1 lg:mb-10 w-full lg:w-1/3" :src="$page.servicePage.image"/>
+        <!-- <g-image class="rounded lg:float-left mt-16 lg:mr-10 mb-1 lg:mb-10 w-full lg:w-1/3" :src="$page.servicePage.image"/> -->
           <div class="content mt-10 lg:pr-10" v-html="$page.servicePage.content" />
         </div>
         <div class="right_block w-full mt-20 lg:w-1/4 lg:mt-0">

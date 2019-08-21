@@ -42,7 +42,7 @@
         <!-- <h2 class="border-b-2 border-grey-lighter pb-1 text-4xl">Services</h2>
         <h3 class="text-center bg-cover bg-fixed text-white mb-0 p-8">SERVICES</h3> -->
         <div class="serviceBox flex flex-wrap flex-row items-stretch text-center justify-center">
-          <div v-for="{ node } in $static.allServicePage.edges" :key="node._id" class="service relative w-full lg:w-1/4 mb-6 lg:mb-0">
+          <div v-for="{ node } in $static.allServicePage.edges" :key="node._id" class="service relative w-full lg:w-1/4 mb-0">
                       <router-link :to="node.path" class=" bg-cover bg-center w-full block lg:inline-block lg:mt-0 text-grey-lighter hover:text-white" v-bind:style="{ backgroundImage: 'url(' + node.image + ')' }">
                         <h3 v-html="node.title" class="serviceName inline-block  rounded" />
                         <p v-html="node.sdesc"></p>
@@ -208,6 +208,8 @@ export default {
 
 .startpage .serviceBox h3{
   color:#fff;
+  font-weight: 600;
+  text-transform: uppercase;
   z-index: 2;
    transition:transform 0.35s ease;
     max-width: 95%;
@@ -220,7 +222,6 @@ export default {
     -webkit-transform: translate3d(-50%,0,0);
     transform: translate3d(-50%,0,0);
     overflow: hidden;
-    background: rgba(52, 144, 220, 1);
     
 }
 
@@ -256,15 +257,14 @@ export default {
 }
 
 .startpage .service a:after{
-  background: rgba(52, 144, 220, 1);
-  content: '';
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  left:0;
-  top: 0;transform: translateY(100%);
-  background-color: rgba(255, 255, 255, 0);
-  z-index: 0;
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    background-color: rgba(0, 81, 147, 0.61);
+    z-index: 0;
 }
 
 .startpage .service:hover a:after{

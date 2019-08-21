@@ -13,12 +13,12 @@
     </div>
     
 
-    <div class="container mx-auto mb-16 mt-20">
+    <div class="container mx-auto mb-16 mt-20 listBlogBody">
       <div class="lg:flex ">
         <div class="w-full lg:w-3/4">
           <ul class="lg:pr-10">
             <li class="mb-8" v-for="{ node } in $page.allBlogPost.edges" :key="node._id">
-              <div class="lg:float-left lg:mr-5 max-w-xs overflow-hidden"><g-image class="rounded-lg" :src="node.image" width="100"/></div>
+              <div class="lg:float-left lg:mr-5 overflow-hidden"><g-image class="rounded-lg" :src="node.image" width="100"/></div>
               <div class=" clearfix">
                 <g-link :to="node.path">
                   <h3 class="text-blue mb-2" v-html="node.title"/>
@@ -53,7 +53,7 @@
 
 <page-query>
   query Home ($page: Int) {
-    allBlogPost (perPage: 5, page: $page, sortBy: "date", order: ASC) @paginate{
+    allBlogPost (perPage: 5, page: $page, sortBy: "date", order: DESC) @paginate{
       pageInfo {
         totalPages
         currentPage
@@ -62,7 +62,7 @@
         node {
           _id
           title
-          date 
+          date (format: "MMMM D, YYYY", locale: "us")
           description
           path
           image
@@ -121,6 +121,17 @@ export default {
     /* height: auto; */
 }
 
+.listBlogBody img {
+  height: auto;
+  width: 300px;
+}
+
+@media  (max-width: 991px) {
+  .listBlogBody img {
+    max-width: 100% !important;
+    width: 100%;
+  }
+}
 
 ul {
   padding: 0;

@@ -1,7 +1,7 @@
 ---
 title: 'Why is ADHD so frustrating? '
 image: /uploads/adult-adhd-long-island-400x380.jpg
-date: Apr 17th 19
+date: 2019-04-17T21:00:00.000Z
 description: Frustrated with adult ADHD?
 seotitle: Adult ADHD/ADD
 seokeywords: 'ADHD, ADD, frustrations, managing ADHD symptoms'

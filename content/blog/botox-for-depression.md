@@ -1,7 +1,7 @@
 ---
 title: Botox for Depression
 image: /uploads/botox-before-and-after-photos-new-york-517x380.jpg
-date: Apr 24, 16
+date: 2016-04-15T21:00:00.000Z
 description: >-
   Long Island psychiatrist Dr. Edward Fruitman, M.D. is positive that Botox
   helps with depression symptoms

@@ -1,7 +1,7 @@
 <template>
     <div id="footer" class=" bg-blue-darkest text-white" >
         <div class="container mx-auto flex text-center items-top justify-center flex-wrap py-10">
-             <h3 class="text-center border-b-2 border-blue-darker pb-1 mb-3 text-4xl w-full text-left">CALL US TODAY! 516-295-4867</h3>
+             <h3 class="text-center border-b-2 border-blue-lighter pb-1 mb-3 text-4xl w-full text-left">CALL US TODAY! 516-295-4867</h3>
             <!--
             <div class="lg:w-1/3 w-1/2 ">
                 <p class=" lg:text-2xl text-blue">
@@ -18,7 +18,7 @@
                 </p>
             </div>
             -->
-            <h3 class="p-0 m-0 text-blue-darkest">Call now and start your journey to better yourself today!</h3>
+            <h3 class="p-0 m-0 text-blue uppercase">Call now and start your journey to better yourself today!</h3>
             <div class="lg:w-1/3 w-1/2 mt-8 lg:mt-0 hidden">
                 <p class=" lg:text-2xl text-blue">
                     <a href="tel:516-295-4867"><g-image class="p-3 rounded-full mb-3 bg-blue" src="~/assets/img/phone-icon-inv.png" width="70" /></a>

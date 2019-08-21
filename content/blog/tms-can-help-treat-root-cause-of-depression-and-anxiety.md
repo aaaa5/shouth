@@ -2,7 +2,7 @@
 title: TMS can help treat root cause of depression and anxiety
 image: /uploads/innovative-depression-treatment-tms.jpg
 heading-image: /uploads/innovative-depression-treatment-tms.jpg
-date: Sep 23rd 14
+date: 2014-09-23T21:00:00.000Z
 description: TMS
 seotitle: 'TMS, depression and anxiety'
 seokeywords: 'TMS, Depression, Anxiety'

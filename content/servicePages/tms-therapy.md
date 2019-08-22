@@ -1,7 +1,6 @@
 ---
 title: TMS Therapy
 position: 1
-image: /uploads/tms.jpg
 top-image: /uploads/sub.jpg
 sdesc: >-
   Addiction Disorder Treatment, Buprenorphine Suboxone In Long Island, Hewlett |
@@ -35,6 +34,10 @@ Transcranial magnetic stimulation (TMS) uses a targeted pulsed magnetic field, s
 This procedure is completely painless and noninvasive. TMS requires no anesthesia or sedation and patients are awake and alert during the procedure. Because no medications are administered, there are no systemic effects or cognitive after-effects (memory loss or ability to concentrate); therefore, patients can return immediately to regular activity.
 
 Each treatment sessions takes approximately 30 minutes to perform, and patients can resume their regular activities immediately after each session. An effective course of treatment is 4-6 weeks long.
+
+![](/uploads/tms-infographic.png)
+
+
 
 ## TREATMENT
 

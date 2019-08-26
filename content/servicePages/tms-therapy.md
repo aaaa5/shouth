@@ -21,13 +21,9 @@ seodescription: >-
 
 Transcranial Magnetic Stimulation (TMS) is a non-invasive, FDA-approved treatment for depression. It uses magnetic pulses to stimulate a mood center of the brain, increasing activity in this area and providing lasting relief. Remarkably, it has been reliably shown to help people with treatment-resistant depression- those that have not found success from traditional therapies such as antidepressants. Here at South Shore NeuroPsychiatric Center, we have been using TMS to help our patients combat depression since 2010. 
 
-
-
 ![](/uploads/tms-infographic.png)
 
 While there are several TMS devices on the market, we believe in choosing the most proven option for our patients. We use the NeuroStar device, which is backed by the largest clinical data set of any TMS treatment for depression. In fact, more than 2 million treatments using the NeuroStar device have been performed worldwide. NeuroStar TMS Therapy is proven effective for patients who have not benefited from prior antidepressant medication, and NeuroStar is the only TMS device to have demonstrated long-term durability of clinical effect over 12 months.
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vu6TcSMca2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -35,17 +31,12 @@ While there are several TMS devices on the market, we believe in choosing the mo
 
 Patients are fully awake and alert for the entirety of the short TMS procedure. The step-by-step process occurs as follows:
 
-1.	The patient is seated and the NeuroStar magnetic coil is carefully positioned over the patient’s head.
-
-2.	The TMS machine is set to the established treatment parameters. Once treatment begins, the pulsing is described as a light tapping against the scalp.
-
-3.	During the session, patients are free to relax, read, listen to music, or watch TV. The TMS technician remains in the room for the duration of the treatment.
-
-4.	After the session is concluded, patients are free to resume normal daily activity.
+1. The patient is seated and the NeuroStar magnetic coil is carefully positioned over the patient’s head.
+2. The TMS machine is set to the established treatment parameters. Once treatment begins, the pulsing is described as a light tapping against the scalp.
+3. During the session, patients are free to relax, read, listen to music, or watch TV. The TMS technician remains in the room for the duration of the treatment.
+4. After the session is concluded, patients are free to resume normal daily activity.
 
 The NeuroStar TMS machine we use constantly monitors that the patient is in full contact with the magnetic coil. This is important because motion away from the coil can reduce the amount of pulses that actually reach the target area. By using NeuroStar technology, we ensure that each patient gets the prescribed dosage of magnetic pulses.
-
-
 
 ## How It Works
 
@@ -54,8 +45,6 @@ The NeuroStar TMS machine we use constantly monitors that the patient is in full
 During a TMS session, a magnetic coil is carefully placed against a specific area of the scalp. The magnet then sends pulses (similar to an MRI machine) to activate a mood center of the brain that is underactive during depression. This stimulation increases the brain’s activity in that specific region and provides relief from depression. 
 
 Before the first TMS session, the patient’s brain is mapped using the NeuroStar device to precisely target the mood center. After this preliminary procedure, the treatment plan begins. Each therapy session takes about 40 minutes per established treatment protocol, and can be integrated into your daily schedule. Because the procedure is simple and non-invasive, after a session patients can return to work or continue with their everyday activities.
-
-
 
 ## 
 
@@ -81,18 +70,34 @@ During this initial telephone conversation, we will gather some basic informatio
 
 \-	 While the full treatment plan will be determined at the initial consultation, patients can expect for a full course of TMS treatment to last for 5-6 weeks. Patients will typically come in 5 days a week (Monday through Friday) for sessions of about 40 minutes. 
 
-
-
 ## IS TMS COVERED BY INSURANCE?
 
 Almost all major insurance providers authorize TMS. As an out-of-network provider, we’re able to negotiate single-case coverage for TMS with most private plans if the treatment is deemed medically necessary and patient meets clinical criteria. 
 
 If insurance coverage isn’t an option, we can also work with you to develop an out-of-pocket payment plan to cover the cost of treatment. Contact us to learn more.
 
-
-
 ## Learn About the Science Behind TMS:
 
 Treatment-resistant major depression, defined as depression that fails to respond to traditional medications and therapy, is a serious clinical issue. As there is evidence that antidepressant remission rates fall with each failed medication, there is a strong need for alternative therapies (1).
 
 In order to address depression differently from medications, Transcranial Magnetic Stimulation (TMS) directly targets a mood center of the brain - the left dorsolateral prefrontal cortex. This area has been identified to be underactive in people with depression, and its dysfunction is associated with many of the illness’s behavioral symptoms (2). These include decreased energy, changes in appetite, and disruption of the sleep cycle. The magnetic pulses emitted by the TMS machine stimulate the neurons in this region of the brain, which increases their activity and also activates deep brain structures. This activation results in neurotransmitter release, and also increases connectivity between the stimulated and deep brain regions (3). These effects are believed to improve mood and reduce the symptoms of depression.
+
+
+
+![Transcranial Magnetic Stimulation Procedure](/uploads/tms-procedure.jpg "How TMS Works")
+
+Due to the many clinical trials that have investigated the effects of TMS, it has been shown to be both effective and safe for patients with treatment-resistant depression. For instance, in an independent, National Institute of Mental Health - funded study, patients treated with NeuroStar TMS were four times more likely to achieve remission from depression compared to patients who underwent a placebo procedure (4). 
+
+Due to both the abundance of clinical data, and the success we’ve seen firsthand at South Shore Neuropsychiatric Center, we are confident in offering NeuroStar TMS treatment to our patients.
+
+
+
+References
+
+1.	https://www.ncbi.nlm.nih.gov/pubmed/17074942
+
+2.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4492646/
+
+3.	https://www.ncbi.nlm.nih.gov/pubmed/24629537
+
+4.	https://www.ncbi.nlm.nih.gov/pubmed/20439832

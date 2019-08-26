@@ -54,7 +54,7 @@ Before the first TMS session, the patient’s brain is mapped using the NeuroSta
 
 \-	If you are interested in TMS therapy, discussing your treatment options, or simply finding out more information, please contact us (make link), or call at 516-295-4867.
 
-During this initial telephone conversation, we will gather some basic information and address any questions you may have regarding TMS therapy. At this time we will also set up an initial consultation with Dr. Fruitman. If you have questions about pricing or financing options, they can be discussed at this time or at the consultation in person.
+\-      During this initial telephone conversation, we will gather some basic information and address any questions you may have regarding TMS therapy. At this time we will also set up an initial consultation with Dr. Fruitman. If you have questions about pricing or financing options, they can be discussed at this time or at the consultation in person.
 
 **Pre-Treatment Consultation**
 
@@ -82,22 +82,15 @@ Treatment-resistant major depression, defined as depression that fails to respon
 
 In order to address depression differently from medications, Transcranial Magnetic Stimulation (TMS) directly targets a mood center of the brain - the left dorsolateral prefrontal cortex. This area has been identified to be underactive in people with depression, and its dysfunction is associated with many of the illness’s behavioral symptoms (2). These include decreased energy, changes in appetite, and disruption of the sleep cycle. The magnetic pulses emitted by the TMS machine stimulate the neurons in this region of the brain, which increases their activity and also activates deep brain structures. This activation results in neurotransmitter release, and also increases connectivity between the stimulated and deep brain regions (3). These effects are believed to improve mood and reduce the symptoms of depression.
 
-
-
 ![Transcranial Magnetic Stimulation Procedure](/uploads/tms-procedure.jpg "How TMS Works")
 
 Due to the many clinical trials that have investigated the effects of TMS, it has been shown to be both effective and safe for patients with treatment-resistant depression. For instance, in an independent, National Institute of Mental Health - funded study, patients treated with NeuroStar TMS were four times more likely to achieve remission from depression compared to patients who underwent a placebo procedure (4). 
 
 Due to both the abundance of clinical data, and the success we’ve seen firsthand at South Shore Neuropsychiatric Center, we are confident in offering NeuroStar TMS treatment to our patients.
 
-
-
 References
 
-1.	https://www.ncbi.nlm.nih.gov/pubmed/17074942
-
-2.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4492646/
-
-3.	https://www.ncbi.nlm.nih.gov/pubmed/24629537
-
-4.	https://www.ncbi.nlm.nih.gov/pubmed/20439832
+1. https://www.ncbi.nlm.nih.gov/pubmed/17074942
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4492646/
+3. https://www.ncbi.nlm.nih.gov/pubmed/24629537
+4. https://www.ncbi.nlm.nih.gov/pubmed/20439832

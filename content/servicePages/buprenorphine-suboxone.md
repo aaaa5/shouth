@@ -30,7 +30,7 @@ It is important for patient’s dependent on opioids to receive proper treatment
 
 ****
 
-Dr. Fruitman combines Suboxone (Buprenorphine), a prescription medication used to treat the physical aspects of opioid dependence, with counseling sessions and treatment of the underlying Depression/Anxiety Disorders. Sometimes, patients are prescribed Suboxone (Buprenorphine) along with other medications.
+
 
 
 

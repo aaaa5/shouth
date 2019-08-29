@@ -1,9 +1,10 @@
 ---
 title: Treatment of Common Conditions
 position: 3
-image: /uploads/depressed-woman-on-boat-dock.jpg
 top-image: /uploads/sub.jpg
-sdesc: 'Addiction Disorder Treatment, Buprenorphine Suboxone In Long Island, Hewlett South Shore Neuropsychiatric Center'
+sdesc: >-
+  Addiction Disorder Treatment, Buprenorphine Suboxone In Long Island, Hewlett
+  South Shore Neuropsychiatric Center
 seotitle: 'common conditions, treatment of conditions'
 seokeywords: 'conditions,ADHD, depression, anxiety, phobias'
 seodescription: 'treatment of common conditions '
@@ -26,22 +27,19 @@ Panic Disorder is characterized by unexpected and repeated episodes of intense f
 
 Here we focus on helping patients with Panic Disorder feel more in control. We believe that the fear of panic attacks can become more disabling then the panic attack itself. We help our patients to achieve control over Panic Disorder with the use of expert Psychopharmacology and relaxation techniques.
 
-
 **SOCIAL PHOBIA**
 
 Social Phobia is a persistent and irrational fear of situations that may involve scrutiny or judgment by others in social situations. Patients with Social Phobia may appear to others as very shy. However, Social Phobia may prevent individuals from attending social events, participating in public speaking and from forming important relationships. People with Social Phobia are at high risk for alcohol or other drug dependence, because they may come to rely on drinks or drugs to relax in social situations.
 
 Although many people with Social Phobia realize that their fears about being with people are excessive or unreasonable, they are unable to overcome them on their own. We can help patients overcome Social Phobia by Cognitive Behavioral Therapy and expert Psychopharmacology.
 
-**Attention Deficit/Hyperactivity Disorder**
+**Adult Attention Deficit/Hyperactivity Disorder**
 
-We are dedicated to helping adult professionals and students get rapid relief of their ADD/ADHD symptoms with targeted and efficient, powerful psychopharmacologic intervention with individual counseling. 
+Many adults have ADD/ADHD and don’t know it. They were not diagnosed as children and never received treatment. This is incredibly common, as statistics for adult ADD/ADHD are widely underreported and the condition is underdiagnosed.
 
-What is adult attention deficit disorder?
+Adults with ADD/ADHD often experience challenges at work or school, but are able to compensate with quick thinking and the ability to hyper-focus for short periods of time. In this way, many are able to partially compensate for their condition and continue to go untreated. However, fallback strategies such as these are rarely sustainable in the long term.
 
-Many adults have ADD/ADHD and don’t know they have it. ADD/ADHD is the second most common psychiatric illness of biological origin and affects approximately 4-5% of the population worldwide (as per WHO). Frequently, adults with ADD/ADHD experience challenges at work or school but compensate for them with quick, outside of the box thinking and the ability to hyper-focus for a short period of time.
-
-•	Common signs and symptoms of adult ADHD include:
+Common signs and symptoms of adult ADHD include:
 
 •	Procrastination
 
@@ -50,6 +48,8 @@ Many adults have ADD/ADHD and don’t know they have it. ADD/ADHD is the second 
 •	Poor concentration with tedious tasks
 
 •	Inability to refocus quickly when interrupted
+
+•	Hyperfocus on less productive activities
 
 •	Frequent fender-bender auto-accidents
 
@@ -67,27 +67,41 @@ Many adults have ADD/ADHD and don’t know they have it. ADD/ADHD is the second 
 
 •	Time-management issues, over-estimating available time or time it takes to finish the task
 
-•	Making impulsive decisions, poor planning, impulsive spending
+•	Impulsive decision making, poor planning, impulsive spending
 
 •	Tendency to interrupt others
 
-Not every person with ADD/ADHD has every symptom, nor do they experience symptoms to the same degree. Adult ADD/ADHD must be diagnosed by a Board Certified Psychiatrist. Dr. Edward Fruitman specializes in the treatment of Adult ADD/ADHD in NYC and Long island. If you have struggle at work and/or school with procrastination, lateness, completing routine boring tasks, and/or time management, call us to schedule an appointment for a comprehensive evaluation. With proper diagnosis and treatment, adult ADD/ADHD does not have to negatively impact an individual’s life.
+Not every person with ADD/ADHD has every symptom, nor do they experience symptoms to the same degree. Dr. Edward Fruitman specializes in the treatment of Adult ADD/ADHD.
 
-_How is it different to childhood ADHD?_
+If you have struggle at work and/or school with procrastination, lateness, completing routine boring tasks, and/or time management, call us to schedule an appointment for a comprehensive evaluation. With proper diagnosis and treatment, adult ADD/ADHD does not have to negatively impact an individual’s life.
 
-Many adults with ADD/ADHD exhibited some symptoms of ADD/ADHD in childhood, which went undiagnosed due to parental resistance and/or adequate school performance.
+We are dedicated to helping adult professionals and students get rapid relief of their ADD/ADHD symptoms with targeted and efficient, powerful psychopharmacologic intervention with individual counseling.
 
-Symptoms of ADD/ADHD change with age. Hyperactivity and impulsivity can improve with age, while procrastination and time management issues may become more visible due to increased responsibility. Adults with ADD/ADHD are more likely to smoke, drink alcohol, use drugs, and in some cases, engage in risky sexual behaviors. A diagnosis of ADHD is frequently very liberating to a person who struggled all of their life with symptoms that they could not define or understand.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Life Long Progression of ADD/ADHD_
+How is Adult ADD/ADHD Different from the Childhood Diagnosis?
 
-A common misconception is that ADHD affects only children. In fact, 60% of children with ADHD may continue to have symptoms as adults. The average age of an Adult ADD/ADHD patient in treatment is 35. ADD/ADHD is the most under-diagnosed and under-treated mental health problem (only 5% of diagnosed patients get proper treatment). It is not surprising that Adults with ADD/ADHD need the most help in their 20’s and 30’s: it is the time of life that is more professionally challenging. Most young professionals do not have a choice which task they must perform themselves and which can be delegated. Moreover, most young professionals do not control their work environment. Professionals can frequently ameliorate ADHD symptoms later in their career by adjusting their work environment, delegating tasks and getting assistants.
+Many adults with ADD/ADHD exhibited some symptoms in childhood, but went undiagnosed due to parental resistance and/or adequate school performance.
 
-_ADHD Medications_
+Symptoms of ADD/ADHD also change with age. Hyperactivity and impulsivity can improve with time, while procrastination and time management issues may become more visible due to increased responsibility. 
 
-Most ADHD symptoms improve safely, quickly and effectively with medications. When patients experience the positive effect of medication for the first time, they feel profound relief. The effect is so sudden and dramatic; it is frequently compared to the effect of putting on glasses and seeing clearly for the first time. Stimulants are believed to enhance the availability of the brain’s chemical messengers Dopamine and Norepinephrine.
+Adults with ADD/ADHD are also more likely to smoke, drink alcohol, use drugs, and in some cases, engage in risky sexual behaviors. A diagnosis of ADHD is frequently very liberating to a person who struggled all of their life with symptoms that they could not define or understand.
 
-The stimulants include medications like Ritalin, Concerta, Adderall, Adderall XR, Vyvanse, Focalin, Strattera, and others. As long as stimulant medications are used as prescribed, they can alleviate symptoms safely. Some patients with family history of heart disease or history of cardiac anomalies may require a cardiogram (a routine part of initial evaluation). Our practice has a policy of prescribing stimulants only to patients who need stimulants to improve their productivity and to use longer-acting stimulants first, whenever possible. Other, non-FDA approved, but frequently used medications are Desipramine, Effexor, and Bupropion. Some patients may benefit from stimulant antidepressant medications and/or prescription vitamins.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ADHD Medications
+
+Most ADHD symptoms improve safely, quickly, and effectively with medications. When patients experience the positive effect of medication for the first time, most feel profound relief. The effect is sudden and dramatic; it is frequently compared to putting on glasses and seeing clearly for the first time. 
+
+The most widely prescribed medications for ADD/ADHD are stimulants. These medication are believed to enhance the availability of the brain’s chemical messengers dopamine and norepinephrine.
+
+Stimulants medications include Ritalin, Concerta, Adderall, Adderall XR, Vyvanse, Focalin, Strattera, and others. As long as these medications are used as prescribed, they can alleviate symptoms safely. 
+
+Some patients with family history of heart disease or history of cardiac anomalies may require a cardiogram (a routine part of an initial evaluation). Our practice has a policy of prescribing stimulants only to patients who need them to improve their productivity. We use longer-acting stimulants first, whenever possible. 
+
+Other, non-FDA approved, but frequently used medications are Desipramine, Effexor, and Bupropion. Some patients may benefit from stimulant antidepressant medications and/or prescription vitamins.
+
+
 
 **CHILDHOOD ADHD/ADD**
 

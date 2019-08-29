@@ -1,7 +1,6 @@
 ---
 title: Ketamine for depression
 position: 5
-image: /uploads/ket.jpg
 top-image: /uploads/sub.jpg
 sdesc: >-
   Addiction Disorder Treatment, Buprenorphine Suboxone In Long Island, Hewlett |
@@ -17,12 +16,15 @@ seodescription: >-
   ketamine depression,ketamine treatment long island,psychiatrist long
   island,ketamine injection,depression treatment,long island,hewlett. ny
 ---
-**Ketamine Injections in Long island NY for Treatment Resistant Depression:**
+## Ketamine Injections in Long island NY for Treatment Resistant Depression:
 
-Depression continues to be a disease that is not completely understood. Modern neuroscience has come up with logical and cohesive models, which describe depression as, a deficiency or reduced activity of the neurotransmitters Serotonin, Norepinephrine and Dopamine in the brain. All FDA-approved medications affect one or more of the above neurotransmitters. The art of psychopharmacology is in finding the right combination of medications, which can optimize activity of all of the above neurotransmitters for a given patient. Current models of Depression do not explain why antidepressants do not work instantly or why antidepressants do not work for all of depressed patients.
+**Overview**
 
+Ketamine is a novel treatment option for people who traditional treatments for depression such as antidepressants or psychotherapy have been ineffective. When administered at low doses, ketamine has been reliably shown to be effective at alleviating symptoms of depression. Furthermore, ketamine is fast-acting – studies have shown patients that respond can feel better in just 1-2 treatments, compared to antidepressants which can take 4 or more weeks to start working. Dr. Fruitman and the staff at South Shore Neuropsychiatric Center are experienced in ketamine administration, and are committed to working with you to find a treatment that provides lasting relief. 
 
-Modern research shows that Ketamine, an old anesthetic, works very quickly in relieving the symptoms of severe depression in patients who have received no response to medications and/or ECT.
+We personalize every single treatment plan to your needs and medical history. If after two sessions you do not experience improvement from your depressive symptoms, we discontinue treatment and reevaluate your treatment options.
+
+Many patients who were previously unsuccessful in treating their depression have found success with ketamine, especially as a bridge to oral medication. The goals of the treatment are rapid recovery, stabilization, and maintenance of therapeutic effect. Ketamine maintenance is possible, if absolutely necessary.
 
 
 
@@ -30,16 +32,11 @@ Modern research shows that Ketamine, an old anesthetic, works very quickly in re
 
 The exact mechanism of how Ketamine works for depression is not fully known. Ketamine works on a neurotransmitter system called Glutamate (NMDA receptors), which is the most widespread neurotransmitter in the brain. Many major research institutions are conducting trials and studies on this subject. The public clinical results are excellent, but the mechanism of action still remains a mystery.
 
-
-
 ## Is Ketamine safe?
 
 Ketamine has been widely used as an anesthetic for minor procedures since the 1960’s. In many countries, it is used by the first aid response workers when dealing with minor trauma. The safety of Ketamine is such that it can be used as an outpatient anesthetic by non-physicians. The dose used to Depression is about one quarter (1/4) of the anesthetic dose. At South Shore Neuropsychiatric Center, we administer a trial injection, followed in 15 minutes by a regular injection. This will minimize the chance of any negative reaction and help to reassure the patient. Ketamine has a very short-acting, mind-altering effect that is frequently described as a mild alcohol intoxication. The effects of ketamine lasts for less than two hours.
 
-
 Negative effects of Ketamine use are most often associated with high chronic doses of Veterinary grade by recreational drug users (Special K) or medical errors. Ketamine is an FDA approved substance, but does not carry an indication for depression treatment.
-
-
 
 ## How does South Shore use Ketamine for Treatment Resistant Depression?
 
@@ -50,8 +47,6 @@ Appropriate patients are selected by the medical team. EKG, vital signs and oxyg
 ## South Shore treatment philosophy:
 
 We individualize treatment to the particular patient. Lamictal treatment is frequently used as an adjunctive treatment, to both improve efficacy and reduce potential side effects. We charge for each session separately, since we are unable to predict how many treatments would be necessary. At South Shore Neuropsychiatric in Hewlett Long Island, we try to make the patient a full partner in his/her treatment process.
-
-
 
 ## What to expect from Ketamine Injection treatment for treatment resistant depression:
 

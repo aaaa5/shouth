@@ -1,7 +1,6 @@
 ---
 title: Substance Abuse
 position: 4
-image: /uploads/sub.jpg
 top-image: /uploads/sub.jpg
 sdesc: >-
   Addiction Disorder Treatment, Buprenorphine Suboxone In Long Island, Hewlett |
@@ -17,24 +16,68 @@ seodescription: >-
   provider in Lond Island and NYC. We specialize in private, confidential,
   outpatient
 ---
-**South Shore Neuropsychiatric Center is a licensed and authorized Suboxone provider in Long Island New York.**
+**South Shore Neuropsychiatric Center is a licensed and authorized Suboxone provider in Long Island, New York.**
 
-We specialize in private, confidential, outpatient treatment of opiod/pain killer abuse. Frequently, patients start using prescription pain killers following surgery or child birth, or for painful conditions, like sciatica or migraine headaches.
-
-
-Due to addictive properties of prescription pain killers, many patients progress from using them for pain to using them to create a sensation of wellbeing and tranquility. Misuse of prescription pain killers can easily progress to abuse and dependence.
+We specialize in private, confidential, outpatient treatment of opioid/pain killer/alcohol abuse.
 
 
-It is important for patients dependent on opioids to receive proper treatment for their condition in order to regain purpose and function in their lives, as well as to reduce the risk of serious health-related issues. While there are many options available for treating opioid dependence, many involve a lengthy stay at a rehabilitation facility or other long-term programs. Motivated individuals with good social support in the community can be treated discretely at South Shore Neuropsychiatric Center on an outpatient basis.
+
+Due to the addictive properties of prescription pain killers, many patients progress from using them for pain, to using them to create a sensation of wellbeing. Misuse of prescription pain killers can easily progress to abuse and dependence.
 
 
-If you are suffering from an opioid addiction but do not want to undergo in-patient rehabilitation or other intense forms of treatment, there may be an effective solution available for you in the form of Suboxone®, an FDA-approved medication for opioid dependence.
 
+It is important for patient’s dependent on opioids to receive proper treatment for their condition in order to regain purpose and function in their lives, as well as to reduce the risk of serious health-related issues. While there are many options available for treating opioid dependence, many involve a lengthy stay at a rehabilitation facility or other long-term programs. Motivated individuals with good social support in the community can be treated discretely at South Shore Neuropsychiatric Center on an outpatient basis. 
+
+****
 
 Dr. Fruitman combines Suboxone (Buprenorphine), a prescription medication used to treat the physical aspects of opioid dependence, with counseling sessions and treatment of the underlying Depression/Anxiety Disorders. Sometimes, patients are prescribed Suboxone (Buprenorphine) along with other medications.
 
 
 
-## TREATMENT WITH SUBOXONE
+## TREATMENT OPTIONS: 
 
-Dr. Fruitman will determine whether or not treatment with Buprenorphine is appropriate for you after a thorough evaluation of your condition, mental health history and overall health. Buprenorphine is first administered when an opioid-dependent person has abstained from using opioids for 12-24 hours and is beginning to experience symptoms of withdrawal. Dr. Fruitman will develop a customized treatment plan for each individual patient that takes into account their condition history and risk of relapse, among other factors. Following Dr. Fruitman’s treatment plan helps to improve the effectiveness of your treatment.
+**Buprenorphine/Suboxone treatment:** 
+
+Dr. Fruitman will determine whether or not treatment with Buprenorphine is appropriate for you after a thorough evaluation of your condition, mental health history and overall health. 
+
+Buprenorphine is first administered when an opioid-dependent person has abstained from using opioids for 12-24 hours and is beginning to experience symptoms of withdrawal. We will develop a customized treatment plan for each individual patient that takes into account their condition, history, and risk of relapse, among other factors. Following Dr. Fruitman’s treatment plan helps to improve the effectiveness of your treatment.
+
+To learn more about the benefits of Suboxone, please visit  http://www.suboxone.com
+
+## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+****
+
+**Vivitrol injections:**
+
+Opioid and alcohol dependence are chronic, relapsing illnesses that can be devastating both mentally and physically.  
+
+Vivitrol for alcohol is used for patients who can abstain from alcohol in an outpatient setting prior to the initial treatment of vivitrol. Patients should not be actively drinking at the time of the initial vivitrol administration.  
+
+Vivitrol for opioid use is used for the prevention of release in opioid dependence, following opioid detoxification. You must top taking opioids before you start receiving vivitrol, to be fully effective, vivitrol should be used in conjunction with other alcohol/opioid treatments programs such as counseling.   
+
+To learn more about the benefits of Vivitrol please visit  http://www.vivitrol.com
+
+## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+**Sublocade Injections:** 
+
+Sublocade injections treats opioid addiction in a similar way to Vivitrol.  This extended-release medication, is gradually released into the body over a 40 day period. It is a once-monthly injections will help aid in abstinence from opioid use. Sublocade is used to block the rewarding effects of opioids, i.e.: the pleasurable feelings from opioids which can positively reinforce or increase the likelihood of continued use. 
+
+To learn more about the benefits of Sublocade, please visit  http://www.sublocade.com
+
+## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Antabuse:**
+
+A once-daily medication used for alcohol abuse, Antabuse blocks the enzyme that is involved in processing alcohol.  This medication aids in the management of patients who want to remain in a state of enforced sobriety. 
+
+It is important to note that patients must abstain from alcohol for at least 12 hours prior to starting this medication. Antabuse produces a sensitivity to alcohol which results in a highly unpleasant reaction when the patient drinks even the smallest amount of alcohol.
+
+## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+If you are interested in learning more about the treatment of addiction or substance abuse disorders, please contact South Shore Neuropsychiatric Center at 516-295-4867
